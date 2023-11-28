@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Watch", "price": 20, "src": "https://loremflickr.com/100/150/smartwatch?lock=1" },
+  { "id": 2, "name": "Horse", "price": 30, "src": "https://loremflickr.com/100/150/horse?lock=2" },
+  { "id": 3, "name": "Watermelon", "price": 25, "src": "https://loremflickr.com/100/150/watermelon?lock=3" },
+  { "id": 4, "name": "Apple", "price": 40, "src": "https://loremflickr.com/100/150/apple?lock=4" },
+  { "id": 5, "name": "Mango", "price": 15, "src": "https://loremflickr.com/100/150/mango?lock=5" },
+  { "id": 6, "name": "Carrot", "price": 50, "src": "https://loremflickr.com/100/150/carrot?lock=6" },
+  { "id": 7, "name": "ring", "price": 35, "src": "https://loremflickr.com/100/150/ring?lock=7" },
+  { "id": 8, "name": "Water bottle", "price": 22, "src": "https://loremflickr.com/100/150/bottle?lock=8" },
+  { "id": 9, "name": "Milk can", "price": 28, "src": "https://loremflickr.com/100/150/milkcan?lock=9" },
+  { "id": 10, "name": "Charger", "price": 45, "src": "https://loremflickr.com/100/150/mobilecharger?lock=10" }
+]
